@@ -1,0 +1,5 @@
+mypy
+paramiko
+pywin32
+pyinstaller
+tqdm

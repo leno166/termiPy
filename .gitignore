@@ -1,0 +1,10 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+/.venv
+/build
+/dist
+/tmp/logs/
+
+/release/ssh.db
+/tmp/.ssh/*
+
+/tmp/ssh_playbook.exe
